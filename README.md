@@ -20,7 +20,7 @@ From Venezuela to Italy and meshed up origins as well I just acquired a passion 
 ## I’m currently working on 🔭
 1.  - decription: *Web and mobile platform for advertising publication*;
     - role: **Project Manager & Scrum Master, Software Architect**;
-2. - decription:* Management Dashboard for a Civil Engineering and Architecture company*;
+2. - decription: *Management Dashboard for a Civil Engineering and Architecture company*;
     - role: **Project Manager & Scrum Master, Software Architect**;
 3. - decription: *Vehicle Charging system with the Flutter framework for a blowing local company in the Green Mobility and Energy Sector*;
    - role: **Lead Front-End , Mobile Dev, Back-End Dev**; 
